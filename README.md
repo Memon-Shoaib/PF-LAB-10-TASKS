@@ -1,2 +1,1 @@
-# PF-LAB-10-TASKS
-PF lab 10 Manual Tasks
+This is Muhammad Shoaib Memon, student of BSCY in Fast (NUCES) Karachi.
